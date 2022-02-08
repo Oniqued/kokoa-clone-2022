@@ -14,3 +14,15 @@
 .nav__link {
   color: #2f363e;
 }
+.nav__btn:nth-child(2) {
+  position: relative;
+}
+.nav__notification-chat {
+  position: absolute;
+}
+.nav_btn:last-child {
+  position: relative;
+}
+.nav__notification-new {
+  position: absolute;
+}
